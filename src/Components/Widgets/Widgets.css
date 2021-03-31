@@ -1,6 +1,5 @@
 .widgets {
     flex: 0.3;
-    height: 100vh;
   }
   
   .widgets__input {
@@ -28,7 +27,6 @@
     padding: 20px;
     background-color: #f5f8fa;
     border-radius: 20px;
-    overflow-y: scroll;
   }
   
   .widgets__widgetContainer > h2 {

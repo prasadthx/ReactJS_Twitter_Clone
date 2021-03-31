@@ -25,10 +25,10 @@ function Widgets() {
                 options={{ height: 400 }}
                 />
 
-               <TwitterShareButton
+               {/* <TwitterShareButton
                 url={"https://facebook.com/"}
                 options={{ text: "#Reactjs is awesome", via: "" }}
-                />
+                /> */}
            </div>
         </div>
     )
